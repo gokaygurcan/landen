@@ -1,0 +1,30 @@
+{
+  "name": "landen",
+  "version": "0.1.0",
+  "description": "Country data which come from The World Factbook, United Nations, Wikipedia, etc.",
+  "main": "landen.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://gokaygurcan@github.com/gokaygurcan/landen.git"
+  },
+  "keywords": [
+    "country",
+    "data"
+  ],
+  "author": {
+    "name": "Gökay Gürcan",
+    "email": "gokaygurcan@gmail.com",
+    "url": "http://www.gokaygurcan.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://raw.githubusercontent.com/gokaygurcan/landen/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/gokaygurcan/landen/issues"
+  },
+  "homepage": "https://github.com/gokaygurcan/landen",
+  "dependencies": {},
+  "devDependencies": {}
+}
