@@ -1,0 +1,3833 @@
+{
+	"AD": {
+		"name": {
+			"conventional": {
+				"long": "Principality of Andorra",
+				"short": "Andorra"
+			},
+			"local": {
+				"long": "Principat d'Andorra",
+				"short": "Andorra"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"AE": {
+		"name": {
+			"conventional": {
+				"long": "United Arab Emirates",
+				"short": ""
+			},
+			"local": {
+				"long": "Al Imarat al Arabiyah al Muttahidah",
+				"short": ""
+			},
+			"former": [
+				"Trucial Oman",
+				"Trucial States"
+			],
+			"abbreviation": "UAE"
+		}
+	},
+	"AF": {
+		"name": {
+			"conventional": {
+				"long": "Islamic Republic of Afghanistan",
+				"short": "Afghanistan"
+			},
+			"local": {
+				"long": "Jamhuri-ye Islami-ye Afghanistan",
+				"short": "Afghanistan"
+			},
+			"former":[
+				"Republic of Afghanistan"
+			],
+			"abbreviation": ""
+		}
+	},
+	"AG": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Antigua and Barbuda"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"AI": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Anguilla"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"AL": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Albania",
+				"short": "Albania"
+			},
+			"local": {
+				"long": "Republika e Shqiperise",
+				"short": "Shqiperia"
+			},
+			"former": [
+				"People's Socialist Republic of Albania"
+			],
+			"abbreviation": ""
+		}
+	},
+	"AM": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Armenia",
+				"short": "Armenia"
+			},
+			"local": {
+				"long": "Hayastani Hanrapetut'yun",
+				"short": "Hayastan"
+			},
+			"former": [
+				"Armenian Soviet Socialist Republic",
+				"Armenian Republic"
+			],
+			"abbreviation": ""
+		}
+	},
+	"AN": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Netherlands Antilles"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"AO": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Angola",
+				"short": "Angola"
+			},
+			"local": {
+				"long": "Republica de Angola",
+				"short": "Angola"
+			},
+			"former": [
+				"People's Republic of Angola"
+			],
+			"abbreviation": ""
+		}
+	},
+	"AQ": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Antarctica"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"AR": {
+		"name": {
+			"conventional": {
+				"long": "Argentine Republic",
+				"short": "Argentina"
+			},
+			"local": {
+				"long": "Republica Argentina",
+				"short": "Argentina"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"AS": {
+		"name": {
+			"conventional": {
+				"long": "Territory of American Samoa",
+				"short": "American Samoa"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": "AS"
+		}
+	},
+	"AT": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Austria",
+				"short": "Austria"
+			},
+			"local": {
+				"long": "Republik Oesterreich",
+				"short": "Oesterreich"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"AU": {
+		"name": {
+			"conventional": {
+				"long": "Commonwealth of Australia",
+				"short": "Australia"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"AW": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Aruba"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"AX": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Åland Islands"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"AZ": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Azerbaijan",
+				"short": "Azerbaijan"
+			},
+			"local": {
+				"long": "Azarbaycan Respublikasi",
+				"short": "Azarbaycan"
+			},
+			"former": [
+				"Azerbaijan Soviet Socialist Republic"
+			],
+			"abbreviation": ""
+		}
+	},
+	"BA": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Bosnia and Herzegovina "
+			},
+			"local": {
+				"long": "",
+				"short": "Bosna i Hercegovina "
+			},
+			"former": [
+				"People's Republic of Bosnia and Herzegovina",
+				"Socialist Republic of Bosnia and Herzegovina"
+			],
+			"abbreviation": ""
+		}
+	},
+	"BB": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Barbados"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"BD": {
+		"name": {
+			"conventional": {
+				"long": "People's Republic of Bangladesh",
+				"short": "Bangladesh"
+			},
+			"local": {
+				"long": "Prajatantri Bangladesh",
+				"short": "Bangladesh"
+			},
+			"former": [
+				"East Bengal",
+				"East Pakistan"
+			],
+			"abbreviation": ""
+		}
+	},
+	"BE": {
+		"name": {
+			"conventional": {
+				"long": "Kingdom of Belgium",
+				"short": "Belgium"
+			},
+			"local": {
+				"long": [
+					"Royaume de Belgique (French)",
+					"Koninkrijk Belgie (Dutch)",
+					"Koenigreich Belgien (German)"
+				],
+				"short": [
+					"Belgique (French)",
+					"Belgie (Dutch)",
+					"Belgien (German)"
+				]
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"BF": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Burkina Faso"
+			},
+			"local": {
+				"long": "",
+				"short": "Burkina Faso"
+			},
+			"former": [
+				"Upper Volta",
+				"Republic of Upper Volta"
+			],
+			"abbreviation": ""
+		}
+	},
+	"BG": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Bulgaria",
+				"short": "Bulgaria"
+			},
+			"local": {
+				"long": "Republika Balgariya",
+				"short": "Balgariya"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"BH": {
+		"name": {
+			"conventional": {
+				"long": "Kingdom of Bahrain",
+				"short": "Bahrain"
+			},
+			"local": {
+				"long": "Mamlakat al Bahrayn",
+				"short": "Al Bahrayn"
+			},
+			"former": [
+				"Dilmun",
+				"State of Bahrain"
+			],
+			"abbreviation": ""
+		}
+	},
+	"BI": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Burundi",
+				"short": "Burundi"
+			},
+			"local": {
+				"long": [
+					"Republique du Burundi",
+					"Republika y'u Burundi"
+				],
+				"short": "Burundi"
+			},
+			"former": [
+				"Urundi"
+			],
+			"abbreviation": ""
+		}
+	},
+	"BJ": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Benin",
+				"short": "Benin"
+			},
+			"local": {
+				"long": "Republique du Benin",
+				"short": "Benin"
+			},
+			"former": [
+				"Dahomey"
+			],
+			"abbreviation": ""
+		}
+	},
+	"BL": {
+		"name": {
+			"conventional": {
+				"long": "Overseas Collectivity of Saint Barthelemy",
+				"short": "Saint Barthelemy"
+			},
+			"local": {
+				"long": "Collectivite d'outre mer de Saint-Barthelemy",
+				"short": "Saint-Barthelemy"
+			},
+			"former": [],
+			"abbreviation": "Saint-Barth"
+		}
+	},
+	"BM": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Bermuda"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [
+				"Somers Islands"
+			],
+			"abbreviation": ""
+		}
+	},
+	"BN": {
+		"name": {
+			"conventional": {
+				"long": "Brunei Darussalam",
+				"short": "Brunei"
+			},
+			"local": {
+				"long": "Negara Brunei Darussalam",
+				"short": "Brunei"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"BO": {
+		"name": {
+			"conventional": {
+				"long": "Plurinational State of Bolivia",
+				"short": "Bolivia"
+			},
+			"local": {
+				"long": "Estado Plurinacional de Bolivia",
+				"short": "Bolivia"
+			},
+			"former": [],
+			"abbreviation": ""
+			}
+	},
+	"BR": {
+		"name": {
+			"conventional": {
+				"long": "Federative Republic of Brazil",
+				"short": "Brazil"
+			},
+			"local": {
+				"long": "Republica Federativa do Brasil",
+				"short": "Brasil"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"BS": {
+		"name": {
+			"conventional": {
+				"long": "Commonwealth of The Bahamas",
+				"short": "The Bahamas"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"BT": {
+		"name": {
+			"conventional": {
+				"long": "Kingdom of Bhutan",
+				"short": "Bhutan"
+			},
+			"local": {
+				"long": "Druk Gyalkhap",
+				"short": "Druk Yul"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"BV": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Bouvet Island"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"BW": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Botswana",
+				"short": "Botswana"
+			},
+			"local": {
+				"long": "Republic of Botswana",
+				"short": "Botswana"
+			},
+			"former": [
+				"Bechuanaland"
+			],
+			"abbreviation": ""
+		}
+	},
+	"BY": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Belarus",
+				"short": "Belarus"
+			},
+			"local": {
+				"long": [
+					"Respublika Byelarus'",
+					"Respublika Belarus'"
+				],
+				"short": [
+					"Byelarus'",
+					"Belarus'"				
+				]
+			},
+			"former": [
+				"Belorussian Soviet Socialist Republic",
+				"Byelorussian Soviet Socialist Republic"
+			],
+			"abbreviation": ""
+		}
+	},
+	"BZ": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Belize"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [
+				"British Honduras"
+			],
+			"abbreviation": ""
+		}
+	},
+	"CA": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Canada"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"CC": {
+		"name": {
+			"conventional": {
+				"long": "Territory of Cocos (Keeling) Islands",
+				"short": "Cocos (Keeling) Islands"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"CD": {
+		"name": {
+			"conventional": {
+				"long": "Democratic Republic of the Congo",
+				"short": "DRC"
+			},
+			"local": {
+				"long": "Republique Democratique du Congo",
+				"short": "RDC"
+			},
+			"former": [
+				"Congo Free State", 
+				"Belgian Congo",
+				"Congo/Leopoldville",
+				"Congo/Kinshasa",
+				"Zaire"
+			],
+			"abbreviation": "DRC"
+		}
+	},
+	"CF": {
+		"name": {
+			"conventional": {
+				"long": "Central African Republic",
+				"short": ""
+			},
+			"local": {
+				"long": "Republique Centrafricaine",
+				"short": ""
+			},
+			"former": [
+				"Ubangi-Shari",
+				"Central African Empire "
+			],
+			"abbreviation": "CAR"
+		}
+	},
+	"CG": {
+		"name": {
+			"conventional": {
+				"long": "Republic of the Congo",
+				"short": "Congo (Brazzaville)"
+			},
+			"local": {
+				"long": "Republique du Congo",
+				"short": ""
+			},
+			"former": [
+				"Middle Congo",
+				"Congo/Brazzaville",
+				"Congo"
+			],
+			"abbreviation": ""
+		}
+	},
+	"CH": {
+		"name": {
+			"conventional": {
+				"long": "Swiss Confederation",
+				"short": "Switzerland"
+			},
+			"local": {
+				"long": [
+					"Schweizerische Eidgenossenschaft (German)",
+					"Confederation Suisse (French)",
+					"Confederazione Svizzera (Italian)",
+					"Confederaziun Svizra (Romansh)"
+				],
+				"short": [
+					"Schweiz (German)",
+					"Suisse (French)",
+					"Svizzera (Italian)",
+					"Svizra (Romansh)"
+				]
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"CI": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Cote d'Ivoire",
+				"short": "Cote d'Ivoire"
+			},
+			"local": {
+				"long": "Republique de Cote d'Ivoire",
+				"short": "Cote d'Ivoire"
+			},
+			"former": [
+				"Ivory Coast"
+			],
+			"abbreviation": ""
+		}
+	},
+	"CK": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Cook Islands"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [
+				"Harvey Islands"
+			],
+			"abbreviation": ""
+		}
+	},
+	"CL": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Chile",
+				"short": "Chile"
+			},
+			"local": {
+				"long": "Republica de Chile",
+				"short": "Chile"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"CM": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Cameroon",
+				"short": "Cameroon"
+			},
+			"local": {
+				"long": [
+					"Republique du Cameroun",
+					"Republic of Cameroon"
+				],
+				"short": [
+					"Cameroun",
+					"Cameroon"
+				]
+			},
+			"former": [
+				"French Cameroon",
+				"British Cameroon",
+				"Federal Republic of Cameroon",
+				"United Republic of Cameroon"
+			],
+			"abbreviation": ""
+		}
+	},
+	"CN": {
+		"name": {
+			"conventional": {
+				"long": "People's Republic of China",
+				"short": "China"
+			},
+			"local": {
+				"long": "Zhonghua Renmin Gongheguo",
+				"short": "Zhongguo"
+			},
+			"former": [],
+			"abbreviation": "PRC"
+		}
+	},
+	"CO": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Colombia",
+				"short": "Colombia"
+			},
+			"local": {
+				"long": "Republica de Colombia",
+				"short": "Colombia"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"CR": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Costa Rica",
+				"short": "Costa Rica"
+			},
+			"local": {
+				"long": "Republica de Costa Rica",
+				"short": "Costa Rica"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"CU": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Cuba",
+				"short": "Cuba"
+			},
+			"local": {
+				"long": "Republica de Cuba",
+				"short": "Cuba"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"CV": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Cabo Verde",
+				"short": "Cabo Verde"
+			},
+			"local": {
+				"long": "Republica de Cabo Verde",
+				"short": "Cabo Verde"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"CX": {
+		"name": {
+			"conventional": {
+				"long": "Territory of Christmas Island",
+				"short": "Christmas Island"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"CY": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Cyprus",
+				"short": "Cyprus"
+			},
+			"local": {
+				"long": [
+					"Kypriaki Dimokratia",
+					"Kıbrıs Cumhuriyeti"
+				],
+				"short": [
+					"Kypros",
+					"Kıbrıs"
+				]
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"CZ": {
+		"name": {
+			"conventional": {
+				"long": "Czech Republic",
+				"short": "Czech Republic"
+			},
+			"local": {
+				"long": "Ceska republika",
+				"short": "Cesko"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"DE": {
+		"name": {
+			"conventional": {
+				"long": "Federal Republic of Germany",
+				"short": "Germany"
+			},
+			"local": {
+				"long": "Bundesrepublik Deutschland",
+				"short": "Deutschland"
+			},
+			"former": [
+				"German Empire, German Republic",
+				"German Reich"
+			],
+			"abbreviation": ""
+		}
+	},
+	"DJ": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Djibouti",
+				"short": "Djibouti"
+			},
+			"local": {
+				"long": [
+					"Republique de Djibouti",
+					"Jumhuriyat Jibuti"
+				],
+				"short": [
+					"Djibouti",
+					"Jibuti"
+				]
+			},
+			"former": [
+				"French Territory of the Afars and Issas",
+				"French Somaliland"
+			],
+			"abbreviation": ""
+		}
+	},
+	"DK": {
+		"name": {
+			"conventional": {
+				"long": "Kingdom of Denmark",
+				"short": "Denmark"
+			},
+			"local": {
+				"long": "Kongeriget Danmark",
+				"short": "Danmark"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"DM": {
+		"name": {
+			"conventional": {
+				"long": "Commonwealth of Dominica",
+				"short": "Dominica"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"DO": {
+		"name": {
+			"conventional": {
+				"long": "Dominican Republic",
+				"short": "The Dominican"
+			},
+			"local": {
+				"long": "Republica Dominicana",
+				"short": "La Dominicana"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"DZ": {
+		"name": {
+			"conventional": {
+				"long": "People's Democratic Republic of Algeria",
+				"short": "Algeria"
+			},
+			"local": {
+				"long": "Al Jumhuriyah al Jaza'iriyah ad Dimuqratiyah ash Sha'biyah",
+				"short": "Al Jaza'ir"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"EC": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Ecuador",
+				"short": "Ecuador"
+			},
+			"local": {
+				"long": "Republica del Ecuador",
+				"short": "Ecuador"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"EE": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Estonia",
+				"short": "Estonia"
+			},
+			"local": {
+				"long": "Eesti Vabariik",
+				"short": "Eesti"
+			},
+			"former": [
+				"Estonian Soviet Socialist Republic"
+			],
+			"abbreviation": ""
+		}
+	},
+	"EG": {
+		"name": {
+			"conventional": {
+				"long": "Arab Republic of Egypt",
+				"short": "Egypt"
+			},
+			"local": {
+				"long": "Jumhuriyat Misr al-Arabiyah",
+				"short": "Misr"
+			},
+			"former": [
+				"United Arab Republic"
+			],
+			"abbreviation": ""
+		}
+	},
+	"ER": {
+		"name": {
+			"conventional": {
+				"long": "State of Eritrea",
+				"short": "Eritrea"
+			},
+			"local": {
+				"long": "Hagere Ertra",
+				"short": "Ertra"
+			},
+			"former": [
+				"Eritrea Autonomous Region in Ethiopia"
+			],
+			"abbreviation": ""
+		}
+	},
+	"ES": {
+		"name": {
+			"conventional": {
+				"long": "Kingdom of Spain",
+				"short": "Spain"
+			},
+			"local": {
+				"long": "Reino de Espana",
+				"short": "Espana"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"ET": {
+		"name": {
+			"conventional": {
+				"long": "Federal Democratic Republic of Ethiopia",
+				"short": "Ethiopia"
+			},
+			"local": {
+				"long": "Ityop'iya Federalawi Demokrasiyawi Ripeblik",
+				"short": "Ityop'iya"
+			},
+			"former": [
+				"Abyssinia",
+				"Italian East Africa"
+			],
+			"abbreviation": "FDRE"
+		}
+	},
+	"FI": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Finland",
+				"short": "Finland"
+			},
+			"local": {
+				"long": [
+					"Suomen tasavalta",
+					"Republiken Finland"
+				],
+				"short": [
+					"Suomi",
+					"Finland"
+				]
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"FJ": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Fiji",
+				"short": "Fiji"
+			},
+			"local": {
+				"long": [
+					"Republic of Fiji",
+					"Matanitu ko Viti"
+				],
+				"short": [
+					"Fiji",
+					"Viti"
+				]
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"FK": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Falkland Islands"
+			},
+			"local": {
+				"long": "",
+				"short": "Islas Malvinas"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"FM": {
+		"name": {
+			"conventional": {
+				"long": "Federated States of Micronesia",
+				"short": ""
+			},
+			"local": {
+				"long": "Federated States of Micronesia",
+				"short": ""
+			},
+			"former": [
+				"Trust Territory of the Pacific Islands",
+				"Ponape",
+				"Truk",
+				"Yap Districts"
+			],
+			"abbreviation": "FSM"
+		}
+	},
+	"FO": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Faroe Islands"
+			},
+			"local": {
+				"long": "",
+				"short": "Foroyar"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"FR": {
+		"name": {
+			"conventional": {
+				"long": "French Republic",
+				"short": "France"
+			},
+			"local": {
+				"long": "Republique francaise",
+				"short": "France"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"GA": {
+		"name": {
+			"conventional": {
+				"long": "Gabonese Republic",
+				"short": "Gabon"
+			},
+			"local": {
+				"long": "Republique Gabonaise",
+				"short": "Gabon"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"GD": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Grenada"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"GE": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Georgia"
+			},
+			"local": {
+				"long": "",
+				"short": "Sak'art'velo"
+			},
+			"former": [
+				"Georgian Soviet Socialist Republic"
+			],
+			"abbreviation": ""
+		}
+	},
+	"GG": {
+		"name": {
+			"conventional": {
+				"long": "Bailiwick of Guernsey",
+				"short": "Guernsey"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"GH": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Ghana",
+				"short": "Ghana"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [
+				"Gold Coast"
+			],
+			"abbreviation": ""
+		}
+	},
+	"GI": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Gibraltar"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"GL": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Greenland"
+			},
+			"local": {
+				"long": "",
+				"short": "Kalaallit Nunaat"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"GM": {
+		"name": {
+			"conventional": {
+				"long": "Republic of The Gambia",
+				"short": "The Gambia"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"GN": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Guinea",
+				"short": "Guinea"
+			},
+			"local": {
+				"long": "Republique de Guinee",
+				"short": "Guinee"
+			},
+			"former": [
+				"French Guinea"
+			],
+			"abbreviation": ""
+		}
+	},
+	"GQ": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Equatorial Guinea",
+				"short": "Equatorial Guinea"
+			},
+			"local": {
+				"long": [
+					"Republica de Guinea Ecuatorial",
+					"Republique de Guinee equatoriale"
+				],
+				"short": [
+					"Guinea Ecuatorial",
+					"Guinee equatoriale "
+				]
+			},
+			"former": [
+				"Spanish Guinea"
+			],
+			"abbreviation": ""
+		}
+	},
+	"GR": {
+		"name": {
+			"conventional": {
+				"long": "Hellenic Republic",
+				"short": "Greece"
+			},
+			"local": {
+				"long": "Elliniki Dimokratia",
+				"short": [
+					"Ellas",
+					"Ellada"
+				]
+			},
+			"former": [
+				"Kingdom of Greece"
+			],
+			"abbreviation": ""
+		}
+	},
+	"GS": {
+		"name": {
+			"conventional": {
+				"long": "South Georgia and the South Sandwich Islands",
+				"short": "South Georgia and South Sandwich Islands"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": "SGSSI"
+		}
+	},
+	"GT": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Guatemala",
+				"short": "Guatemala"
+			},
+			"local": {
+				"long": "Republica de Guatemala",
+				"short": "Guatemala"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"GU": {
+		"name": {
+			"conventional": {
+				"long": "Territory of Guam",
+				"short": "Guam"
+			},
+			"local": {
+				"long": "Guahan",
+				"short": "Guahan"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"GW": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Guinea-Bissau",
+				"short": "Guinea-Bissau"
+			},
+			"local": {
+				"long": "Republica da Guine-Bissau",
+				"short": "Guine-Bissau"
+			},
+			"former": [
+				"Portuguese Guinea"
+			],
+			"abbreviation": ""
+		}
+	},
+	"GY": {
+		"name": {
+			"conventional": {
+				"long": "Cooperative Republic of Guyana",
+				"short": "Guyana"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [
+				"British Guiana"
+			],
+			"abbreviation": ""
+		}
+	},
+	"HK": {
+		"name": {
+			"conventional": {
+				"long": "Hong Kong Special Administrative Region",
+				"short": "Hong Kong"
+			},
+			"local": {
+				"long": "Xianggang Tebie Xingzhengqu",
+				"short": "Xianggang"
+			},
+			"former": [],
+			"abbreviation": "HK"
+		}
+	},
+	"HM": {
+		"name": {
+			"conventional": {
+				"long": "Territory of Heard Island and McDonald Islands",
+				"short": "Heard Island and McDonald Islands"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": "HIMI"
+		}
+	},
+	"HN": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Honduras",
+				"short": "Honduras"
+			},
+			"local": {
+				"long": "Republica de Honduras",
+				"short": "Honduras"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"HR": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Croatia",
+				"short": "Croatia"
+			},
+			"local": {
+				"long": "Republika Hrvatska",
+				"short": "Hrvatska"
+			},
+			"former": [
+				"People's Republic of Croatia",
+				"Socialist Republic of Croatia"
+			],
+			"abbreviation": ""
+		}
+	},
+	"HT": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Haiti",
+				"short": "Haiti"
+			},
+			"local": {
+				"long": [
+					"Republique d'Haiti",
+					"Repiblik d'Ayiti"
+				],
+				"short": [
+					"Haiti",
+					"Ayiti"
+				]
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"HU": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Hungary"
+			},
+			"local": {
+				"long": "",
+				"short": "Magyarorszag"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"ID": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Indonesia",
+				"short": "Indonesia"
+			},
+			"local": {
+				"long": "Republik Indonesia",
+				"short": "Indonesia"
+			},
+			"former": [
+				"Netherlands East Indies",
+				"Dutch East Indies"
+			],
+			"abbreviation": ""
+		}
+	},
+	"IE": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Ireland"
+			},
+			"local": {
+				"long": "",
+				"short": "Eire"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"IL": {
+		"name": {
+			"conventional": {
+				"long": "State of Israel",
+				"short": "Israel"
+			},
+			"local": {
+				"long": "Medinat Yisra'el",
+				"short": "Yisra'el"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"IM": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Isle of Man"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": "IOM"
+		}
+	},
+	"IN": {
+		"name": {
+			"conventional": {
+				"long": "Republic of India",
+				"short": "India"
+			},
+			"local": {
+				"long": [
+					"Republic of India",
+					"Bharatiya Ganarajya"
+				],
+				"short": [
+					"India",
+					"Bharat"
+				]
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"IO": {
+		"name": {
+			"conventional": {
+				"long": "British Indian Ocean Territory",
+				"short": ""
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": "BIOT"
+		}
+	},
+	"IQ": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Iraq",
+				"short": "Iraq"
+			},
+			"local": {
+				"long": [
+					"Jumhuriyat al-Iraq",
+					"Komar-i Eraq"
+				],
+				"short": [
+					"Al Iraq",
+					"Eraq"
+				]
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"IR": {
+		"name": {
+			"conventional": {
+				"long": "Islamic Republic of Iran",
+				"short": "Iran"
+			},
+			"local": {
+				"long": "Jomhuri-ye Eslami-ye Iran",
+				"short": "Iran"
+			},
+			"former": [
+				"Persia"
+			],
+			"abbreviation": ""
+		}
+	},
+	"IS": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Iceland",
+				"short": "Iceland"
+			},
+			"local": {
+				"long": "Lydveldid Island",
+				"short": "Island"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"IT": {
+		"name": {
+			"conventional": {
+				"long": "Italian Republic",
+				"short": "Italy"
+			},
+			"local": {
+				"long": "Repubblica Italiana",
+				"short": "Italia"
+			},
+			"former": [
+				"Kingdom of Italy"
+			],
+			"abbreviation": ""
+		}
+	},
+	"JE": {
+		"name": {
+			"conventional": {
+				"long": "Bailiwick of Jersey",
+				"short": "Jersey"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"JM": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Jamaica"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"JO": {
+		"name": {
+			"conventional": {
+				"long": "Hashemite Kingdom of Jordan",
+				"short": "Jordan"
+			},
+			"local": {
+				"long": "Al Mamlakah al Urduniyah al Hashimiyah",
+				"short": "Al Urdun"
+			},
+			"former": [
+				"Transjordan"
+			],
+			"abbreviation": ""
+		}
+	},
+	"JP": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Japan"
+			},
+			"local": {
+				"long": [
+					"Nihon-koku",
+					"Nippon-koku"
+				],
+				"short": [
+					"Nihon",
+					"Nippon"
+				]
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"KE": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Kenya",
+				"short": "Kenya"
+			},
+			"local": {
+				"long": [
+					"Republic of Kenya",
+					"Jamhuri ya Kenya"
+				],
+				"short": "Kenya"
+			},
+			"former": [
+				"British East Africa"
+			],
+			"abbreviation": ""
+		}
+	},
+	"KG": {
+		"name": {
+			"conventional": {
+				"long": "Kyrgyz Republic",
+				"short": "Kyrgyzstan"
+			},
+			"local": {
+				"long": "Kyrgyz Respublikasy",
+				"short": "Kyrgyzstan"
+			},
+			"former": [
+				"Kirghiz Soviet Socialist Republic"
+			],
+			"abbreviation": ""
+		}
+	},
+	"KH": {
+		"name": {
+			"conventional": {
+				"long": "Kingdom of Cambodia",
+				"short": "Cambodia"
+			},
+			"local": {
+				"long": "Preahreacheanachakr Kampuchea",
+				"short": "Kampuchea"
+			},
+			"former": [
+				"Khmer Republic",
+				"Democratic Kampuchea",
+				"People's Republic of Kampuchea",
+				"State of Cambodia"
+			],
+			"abbreviation": ""
+		}
+	},
+	"KI": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Kiribati",
+				"short": "Kiribati"
+			},
+			"local": {
+				"long": "Republic of Kiribati",
+				"short": "Kiribati"
+			},
+			"former": [
+				"Gilbert Islands"
+			],
+			"abbreviation": ""
+		}
+	},
+	"KM": {
+		"name": {
+			"conventional": {
+				"long": "Union of the Comoros",
+				"short": "Comoros"
+			},
+			"local": {
+				"long": [
+					"Udzima wa Komori (Comorian)",
+					"Union des Comores (French)",
+					"Jumhuriyat al Qamar al Muttahidah (Arabic)"
+				],
+				"short": [
+					"Komori (Comorian)",
+					"Comores (French)",
+					"Juzur al Qamar (Arabic)"
+				]
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"KN": {
+		"name": {
+			"conventional": {
+				"long": "Federation of Saint Kitts and Nevis",
+				"short": "Saint Kitts and Nevis"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [
+				"Federation of Saint Christopher and Nevis"
+			],
+			"abbreviation": ""
+		}
+	},
+	"KP": {
+		"name": {
+			"conventional": {
+				"long": "Democratic People's Republic of Korea",
+				"short": "North Korea"
+			},
+			"local": {
+				"long": "Choson-minjujuui-inmin-konghwaguk",
+				"short": "Choson"
+			},
+			"former": [],
+			"abbreviation": "DPRK"
+		}
+	},
+	"KR": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Korea",
+				"short": "South Korea"
+			},
+			"local": {
+				"long": "Taehan-min'guk",
+				"short": "Han'guk"
+			},
+			"former": [],
+			"abbreviation": "ROK"
+		}
+	},
+	"KW": {
+		"name": {
+			"conventional": {
+				"long": "State of Kuwait",
+				"short": "Kuwait"
+			},
+			"local": {
+				"long": "Dawlat al Kuwayt",
+				"short": "Al Kuwayt"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"KY": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Cayman Islands"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"KZ": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Kazakhstan",
+				"short": "Kazakhstan"
+			},
+			"local": {
+				"long": "Qazaqstan Respublikasy",
+				"short": "Qazaqstan"
+			},
+			"former": [
+				"Kazakh Soviet Socialist Republic"
+			],
+			"abbreviation": ""
+		}
+	},
+	"LA": {
+		"name": {
+			"conventional": {
+				"long": "Lao People's Democratic Republic",
+				"short": "Laos"
+			},
+			"local": {
+				"long": "Sathalanalat Paxathipatai Paxaxon Lao",
+				"short": "Pathet Lao"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"LB": {
+		"name": {
+			"conventional": {
+				"long": "Lebanese Republic",
+				"short": "Lebanon"
+			},
+			"local": {
+				"long": "Al Jumhuriyah al Lubnaniyah",
+				"short": "Lubnan"
+			},
+			"former": [
+				"Greater Lebanon"
+			],
+			"abbreviation": ""
+		}
+	},
+	"LC": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Saint Lucia"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"LI": {
+		"name": {
+			"conventional": {
+				"long": "Principality of Liechtenstein",
+				"short": "Liechtenstein"
+			},
+			"local": {
+				"long": "Fuerstentum Liechtenstein",
+				"short": "Liechtenstein"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"LK": {
+		"name": {
+			"conventional": {
+				"long": "Democratic Socialist Republic of Sri Lanka",
+				"short": "Sri Lanka"
+			},
+			"local": {
+				"long": [
+					"Shri Lanka Prajatantrika Samajavadi Janarajaya",
+					"Ilankai Jananayaka Choshalichak Kutiyarachu"
+				],
+				"short": [
+					"Shri Lanka",
+					"Ilankai"
+				]
+			},
+			"former": [
+				"Serendib",
+				"Ceylon"
+			],
+			"abbreviation": ""
+		}
+	},
+	"LR": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Liberia",
+				"short": "Liberia"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"LS": {
+		"name": {
+			"conventional": {
+				"long": "Kingdom of Lesotho",
+				"short": "Lesotho"
+			},
+			"local": {
+				"long": "Kingdom of Lesotho",
+				"short": "Lesotho"
+			},
+			"former": [
+				"Basutoland"
+			],
+			"abbreviation": ""
+		}
+	},
+	"LT": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Lithuania",
+				"short": "Lithuania"
+			},
+			"local": {
+				"long": "Lietuvos Respublika",
+				"short": "Lietuva"
+			},
+			"former": [
+				"Lithuanian Soviet Socialist Republic"
+			],
+			"abbreviation": ""
+		}
+	},
+	"LU": {
+		"name": {
+			"conventional": {
+				"long": "Grand Duchy of Luxembourg",
+				"short": "Luxembourg"
+			},
+			"local": {
+				"long": "Grand Duche de Luxembourg",
+				"short": "Luxembourg"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"LV": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Latvia",
+				"short": "Latvia"
+			},
+			"local": {
+				"long": "Latvijas Republika",
+				"short": "Latvija"
+			},
+			"former": [
+				"Latvian Soviet Socialist Republic"
+			],
+			"abbreviation": ""
+		}
+	},
+	"LY": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Libya"
+			},
+			"local": {
+				"long": "",
+				"short": "Libiya"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"MA": {
+		"name": {
+			"conventional": {
+				"long": "Kingdom of Morocco",
+				"short": "Morocco"
+			},
+			"local": {
+				"long": "Al Mamlakah al Maghribiyah",
+				"short": "Al Maghrib"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"MC": {
+		"name": {
+			"conventional": {
+				"long": "Principality of Monaco",
+				"short": "Monaco"
+			},
+			"local": {
+				"long": "Principaute de Monaco",
+				"short": "Monaco"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"MD": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Moldova",
+				"short": "Moldova"
+			},
+			"local": {
+				"long": "Republica Moldova",
+				"short": "Moldova"
+			},
+			"former": [
+				"Moldavian Soviet Socialist Republic",
+				"Moldovan Soviet Socialist Republic"
+			],
+			"abbreviation": ""
+		}
+	},
+	"ME": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Montenegro"
+			},
+			"local": {
+				"long": "",
+				"short": "Crna Gora"
+			},
+			"former": [
+				"People's Republic of Montenegro",
+				"Socialist Republic of Montenegro",
+				"Republic of Montenegro"
+			],
+			"abbreviation": ""
+		}
+	},
+	"MF": {
+		"name": {
+			"conventional": {
+				"long": "Overseas Collectivity of Saint Martin",
+				"short": "Saint Martin"
+			},
+			"local": {
+				"long": "Collectivite d'outre mer de Saint-Martin",
+				"short": "Saint-Martin"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"MG": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Madagascar",
+				"short": "Madagascar"
+			},
+			"local": {
+				"long": [
+					"Republique de Madagascar",
+					"Repoblikan'i Madagasikara"
+				],
+				"short": [
+					"Madagascar",
+					"Madagasikara"
+				]
+			},
+			"former": [
+				"Malagasy Republic"
+			],
+			"abbreviation": ""
+		}
+	},
+	"MH": {
+		"name": {
+			"conventional": {
+				"long": "Republic of the Marshall Islands",
+				"short": "Marshall Islands"
+			},
+			"local": {
+				"long": "Republic of the Marshall Islands",
+				"short": "Marshall Islands"
+			},
+			"former": [
+				"Trust Territory of the Pacific Islands",
+				"Marshall Islands District"
+			],
+			"abbreviation": "RMI"
+		}
+	},
+	"MK": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Macedonia",
+				"short": "Macedonia"
+			},
+			"local": {
+				"long": "Republika Makedonija",
+				"short": "Makedonija"
+			},
+			"former": [
+				"People's Republic of Macedonia",
+				"Socialist Republic of Macedonia"
+			],
+			"abbreviation": ""
+		}
+	},
+	"ML": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Mali",
+				"short": "Mali"
+			},
+			"local": {
+				"long": "Republique de Mali",
+				"short": "Mali"
+			},
+			"former": [
+				"French Sudan and Sudanese Republic"
+			],
+			"abbreviation": ""
+		}
+	},
+	"MM": {
+		"name": {
+			"conventional": {
+				"long": "Union of Burma",
+				"short": "Burma"
+			},
+			"local": {
+				"long": "Pyidaungzu Thammada Myanma Naingngandaw",
+				"short": "Myanma Naingngandaw"
+			},
+			"former": [
+				"Socialist Republic of the Union of Burma",
+				"Union of Myanmar"
+			],
+			"abbreviation": ""
+		}
+	},
+	"MN": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Mongolia"
+			},
+			"local": {
+				"long": "",
+				"short": "Mongol Uls"
+			},
+			"former": [
+				"Outer Mongolia"
+			],
+			"abbreviation": ""
+		}
+	},
+	"MO": {
+		"name": {
+			"conventional": {
+				"long": "Macau Special Administrative Region",
+				"short": "Macau"
+			},
+			"local": {
+				"long": [
+					"Aomen Tebie Xingzhengqu (Chinese)",
+					"Regiao Administrativa Especial de Macau (Portuguese)"
+				],
+				"short": [
+					"Aomen (Chinese)",
+					"Macau (Portuguese)"
+				]
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"MP": {
+		"name": {
+			"conventional": {
+				"long": "Commonwealth of the Northern Mariana Islands",
+				"short": "Northern Mariana Islands"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [
+				"Trust Territory of the Pacific Islands",
+				"Mariana Islands District"
+			],
+			"abbreviation": "CNMI"
+		}
+	},
+	"MQ": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Martinique"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"MR": {
+		"name": {
+			"conventional": {
+				"long": "Islamic Republic of Mauritania",
+				"short": "Mauritania"
+			},
+			"local": {
+				"long": "Al Jumhuriyah al Islamiyah al Muritaniyah",
+				"short": "Muritaniyah"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"MS": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Montserrat"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"MT": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Malta",
+				"short": "Malta"
+			},
+			"local": {
+				"long": "Repubblika ta' Malta",
+				"short": "Malta"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"MU": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Mauritius",
+				"short": "Mauritius"
+			},
+			"local": {
+				"long": "Republic of Mauritius",
+				"short": "Mauritius"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"MV": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Maldives",
+				"short": "Maldives"
+			},
+			"local": {
+				"long": "Dhivehi Raajjeyge Jumhooriyyaa",
+				"short": "Dhivehi Raajje"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"MW": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Malawi",
+				"short": "Malawi"
+			},
+			"local": {
+				"long": "Dziko la Malawi",
+				"short": "Malawi"
+			},
+			"former": [
+				"British Central African Protectorate",
+				"Nyasaland Protectorate",
+				"Nyasaland"
+			],
+			"abbreviation": ""
+		}
+	},
+	"MX": {
+		"name": {
+			"conventional": {
+				"long": "United Mexican States",
+				"short": "Mexico"
+			},
+			"local": {
+				"long": "Estados Unidos Mexicanos",
+				"short": "Mexico"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"MY": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Malaysia"
+			},
+			"local": {
+				"long": "",
+				"short": "Malaysia"
+			},
+			"former": [
+				"Federation of Malaya"
+			],
+			"abbreviation": ""
+		}
+	},
+	"MZ": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Mozambique",
+				"short": "Mozambique"
+			},
+			"local": {
+				"long": "Republica de Mocambique",
+				"short": "Mocambique"
+			},
+			"former": [
+				"Portuguese East Africa"
+			],
+			"abbreviation": ""
+		}
+	},
+	"NA": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Namibia",
+				"short": "Namibia"
+			},
+			"local": {
+				"long": "Republic of Namibia",
+				"short": "Namibia"
+			},
+			"former": [
+				"Sued-West Afrika",
+				"South-West Africa"
+			],
+			"abbreviation": ""
+		}
+	},
+	"NC": {
+		"name": {
+			"conventional": {
+				"long": "Territory of New Caledonia and Dependencies",
+				"short": "New Caledonia"
+			},
+			"local": {
+				"long": "Territoire des Nouvelle-Caledonie et Dependances",
+				"short": "Nouvelle-Caledonie"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"NE": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Niger",
+				"short": "Niger"
+			},
+			"local": {
+				"long": "Republique du Niger",
+				"short": "Niger"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"NF": {
+		"name": {
+			"conventional": {
+				"long": "Territory of Norfolk Island",
+				"short": "Norfolk Island"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"NG": {
+		"name": {
+			"conventional": {
+				"long": "Federal Republic of Nigeria",
+				"short": "Nigeria"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"NI": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Nicaragua",
+				"short": "Nicaragua"
+			},
+			"local": {
+				"long": "Republica de Nicaragua",
+				"short": "Nicaragua"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"NL": {
+		"name": {
+			"conventional": {
+				"long": "Kingdom of the Netherlands",
+				"short": "Netherlands"
+			},
+			"local": {
+				"long": "Koninkrijk der Nederlanden",
+				"short": "Nederland"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"NO": {
+		"name": {
+			"conventional": {
+				"long": "Kingdom of Norway",
+				"short": "Norway"
+			},
+			"local": {
+				"long": "Kongeriket Norge",
+				"short": "Norge"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"NP": {
+		"name": {
+			"conventional": {
+				"long": "Federal Democratic Republic of Nepal",
+				"short": "Nepal"
+			},
+			"local": {
+				"long": "Sanghiya Loktantrik Ganatantra Nepal",
+				"short": "Nepal"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"NR": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Nauru",
+				"short": "Nauru"
+			},
+			"local": {
+				"long": "Republic of Nauru",
+				"short": "Nauru"
+			},
+			"former": [
+				"Pleasant Island"
+			],
+			"abbreviation": ""
+		}
+	},
+	"NU": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Niue"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [
+				"Savage Island"
+			],
+			"abbreviation": ""
+		}
+	},
+	"NZ": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "New Zealand"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": "NZ"
+		}
+	},
+	"OM": {
+		"name": {
+			"conventional": {
+				"long": "Sultanate of Oman",
+				"short": "Oman"
+			},
+			"local": {
+				"long": "Saltanat Uman",
+				"short": "Uman"
+			},
+			"former": [
+				"Muscat and Oman"
+			],
+			"abbreviation": ""
+		}
+	},
+	"PA": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Panama",
+				"short": "Panama"
+			},
+			"local": {
+				"long": "Republica de Panama",
+				"short": "Panama"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"PE": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Peru",
+				"short": "Peru"
+			},
+			"local": {
+				"long": "Republica del Peru",
+				"short": "Peru"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"PF": {
+		"name": {
+			"conventional": {
+				"long": "Overseas Lands of French Polynesia",
+				"short": "French Polynesia"
+			},
+			"local": {
+				"long": "Pays d'outre-mer de la Polynesie Francaise",
+				"short": "Polynesie Francaise"
+			},
+			"former": [
+				"French Colony of Oceania"
+			],
+			"abbreviation": ""
+		}
+	},
+	"PG": {
+		"name": {
+			"conventional": {
+				"long": "Independent State of Papua New Guinea",
+				"short": "Papua New Guinea"
+			},
+			"local": {
+				"long": "",
+				"short": "Papuaniugini"
+			},
+			"former": [
+				"Territory of Papua and New Guinea"
+			],
+			"abbreviation": "PNG"
+		}
+	},
+	"PH": {
+		"name": {
+			"conventional": {
+				"long": "Republic of the Philippines",
+				"short": "Philippines"
+			},
+			"local": {
+				"long": "Republika ng Pilipinas",
+				"short": "Pilipinas"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"PK": {
+		"name": {
+			"conventional": {
+				"long": "Islamic Republic of Pakistan",
+				"short": "Pakistan"
+			},
+			"local": {
+				"long": "Jamhuryat Islami Pakistan",
+				"short": "Pakistan"
+			},
+			"former": [
+				"West Pakistan"
+			],
+			"abbreviation": ""
+		}
+	},
+	"PL": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Poland",
+				"short": "Poland"
+			},
+			"local": {
+				"long": "Rzeczpospolita Polska",
+				"short": "Polska"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"PM": {
+		"name": {
+			"conventional": {
+				"long": "Territorial Collectivity of Saint Pierre and Miquelon",
+				"short": "Saint Pierre and Miquelon"
+			},
+			"local": {
+				"long": "Departement de Saint-Pierre et Miquelon",
+				"short": "Saint-Pierre et Miquelon"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"PN": {
+		"name": {
+			"conventional": {
+				"long": "Pitcairn, Henderson, Ducie, and Oeno Islands",
+				"short": "Pitcairn Islands"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"PR": {
+		"name": {
+			"conventional": {
+				"long": "Commonwealth of Puerto Rico",
+				"short": "Puerto Rico"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"PS": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Gaza Strip"
+			},
+			"local": {
+				"long": "",
+				"short": "Qita' Ghazzah"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"PT": {
+		"name": {
+			"conventional": {
+				"long": "Portuguese Republic",
+				"short": "Portugal"
+			},
+			"local": {
+				"long": "Republica Portuguesa",
+				"short": "Portugal"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"PW": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Palau",
+				"short": "Palau"
+			},
+			"local": {
+				"long": "Beluu er a Belau",
+				"short": "Belau"
+			},
+			"former": [
+				"Trust Territory of the Pacific Islands",
+				"Palau District"
+			],
+			"abbreviation": ""
+		}
+	},
+	"PY": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Paraguay",
+				"short": "Paraguay"
+			},
+			"local": {
+				"long": "Republica del Paraguay",
+				"short": "Paraguay"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"QA": {
+		"name": {
+			"conventional": {
+				"long": "State of Qatar",
+				"short": "Qatar"
+			},
+			"local": {
+				"long": "Dawlat Qatar",
+				"short": "Qatar"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"RE": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Réunion"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"RO": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Romania"
+			},
+			"local": {
+				"long": "",
+				"short": "Romania"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"RS": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Serbia",
+				"short": "Serbia"
+			},
+			"local": {
+				"long": "Republika Srbija",
+				"short": "Srbija"
+			},
+			"former": [
+				"People's Republic of Serbia",
+				"Socialist Republic of Serbia"
+			],
+			"abbreviation": ""
+		}
+	},
+	"RU": {
+		"name": {
+			"conventional": {
+				"long": "Russian Federation",
+				"short": "Russia"
+			},
+			"local": {
+				"long": "Rossiyskaya Federatsiya",
+				"short": "Rossiya"
+			},
+			"former": [
+				"Russian Empire",
+				"Russian Soviet Federative Socialist Republic"
+			],
+			"abbreviation": ""
+		}
+	},
+	"RW": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Rwanda",
+				"short": "Rwanda"
+			},
+			"local": {
+				"long": "Republika y'u Rwanda",
+				"short": "Rwanda"
+			},
+			"former": [
+				"Ruanda",
+				"German East Africa"
+			],
+			"abbreviation": ""
+		}
+	},
+	"SA": {
+		"name": {
+			"conventional": {
+				"long": "Kingdom of Saudi Arabia",
+				"short": "Saudi Arabia"
+			},
+			"local": {
+				"long": "Al Mamlakah al Arabiyah as Suudiyah",
+				"short": "Al Arabiyah as Suudiyah"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"SB": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Solomon Islands"
+			},
+			"local": {
+				"long": "",
+				"short": "Solomon Islands"
+			},
+			"former": [
+				"British Solomon Islands"
+			],
+			"abbreviation": ""
+		}
+	},
+	"SC": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Seychelles",
+				"short": "Seychelles"
+			},
+			"local": {
+				"long": "Republic of Seychelles",
+				"short": "Seychelles"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"SD": {
+		"name": {
+			"conventional": {
+				"long": "Republic of the Sudan",
+				"short": "Sudan"
+			},
+			"local": {
+				"long": "Jumhuriyat as-Sudan",
+				"short": "As-Sudan"
+			},
+			"former": [
+				"Anglo-Egyptian Sudan"
+			],
+			"abbreviation": ""
+		}
+	},
+	"SE": {
+		"name": {
+			"conventional": {
+				"long": "Kingdom of Sweden",
+				"short": "Sweden"
+			},
+			"local": {
+				"long": "Konungariket Sverige",
+				"short": "Sverige"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"SG": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Singapore",
+				"short": "Singapore"
+			},
+			"local": {
+				"long": "Republic of Singapore",
+				"short": "Singapore"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"SH": {
+		"name": {
+			"conventional": {
+				"long": "Saint Helena, Ascension, and Tristan da Cunha",
+				"short": "Saint Helena"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"SI": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Slovenia",
+				"short": "Slovenia"
+			},
+			"local": {
+				"long": "Republika Slovenija",
+				"short": "Slovenija"
+			},
+			"former": [
+				"People's Republic of Slovenia",
+				"Socialist Republic of Slovenia"
+			],
+			"abbreviation": ""
+		}
+	},
+	"SJ": {
+		"name": {
+			"conventional": {
+				"long": "Svalbard and Jan Mayen",
+				"short": "Svalbard"
+			},
+			"local": {
+				"long": "Svalbard og Jan Mayen",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"SK": {
+		"name": {
+			"conventional": {
+				"long": "Slovak Republic",
+				"short": "Slovakia"
+			},
+			"local": {
+				"long": "Slovenska republika",
+				"short": "Slovensko"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"SL": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Sierra Leone",
+				"short": "Sierra Leone"
+			},
+			"local": {
+				"long": "Republic of Sierra Leone",
+				"short": "Sierra Leone"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"SM": {
+		"name": {
+			"conventional": {
+			"long": "Republic of San Marino",
+				"short": "San Marino"
+			},
+			"local": {
+				"long": "Repubblica di San Marino",
+				"short": "San Marino"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"SN": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Senegal",
+				"short": "Senegal"
+			},
+			"local": {
+				"long": "Republique du Senegal",
+				"short": "Senegal"
+			},
+			"former": [
+				"Senegambia",
+				"Mali Federation"
+			],
+			"abbreviation": ""
+		}
+	},
+	"SO": {
+		"name": {
+			"conventional": {
+				"long": "Federal Republic of Somalia",
+				"short": "Somalia"
+			},
+			"local": {
+				"long": "Jamhuuriyadda Federaalkaa Soomaaliya",
+				"short": "Soomaaliya"
+			},
+			"former": [
+				"Somali Republic",
+				"Somali Democratic Republic"
+			],
+			"abbreviation": ""
+		}
+	},
+	"SR": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Suriname",
+				"short": "Suriname"
+			},
+			"local": {
+				"long": "Republiek Suriname",
+				"short": "Suriname"
+			},
+			"former": [
+				"Netherlands Guiana",
+				"Dutch Guiana"
+			],
+			"abbreviation": ""
+		}
+	},
+	"SS": {
+		"name": {
+			"conventional": {
+				"long": "Republic of South Sudan",
+				"short": "South Sudan"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"ST": {
+		"name": {
+			"conventional": {
+				"long": "Democratic Republic of São Tomé and Príncipe",
+				"short": "São Tome and Príncipe"
+			},
+			"local": {
+				"long": "República Democrática de São Tomé e Príncipe",
+				"short": "São Tomé e Príncipe"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"SV": {
+		"name": {
+			"conventional": {
+				"long": "Republic of El Salvador",
+				"short": "El Salvador"
+			},
+			"local": {
+				"long": "Republica de El Salvador",
+				"short": "El Salvador"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"SX": {
+		"name": {
+			"conventional": {
+				"long": "Land Sint Maarten",
+				"short": "Sint Maarten"
+			},
+			"local": {
+				"long": "Country of Sint Maarten",
+				"short": "Sint Maarten"
+			},
+			"former": [
+				"Netherlands Antilles",
+				"Curacao and Dependencies"
+			],
+			"abbreviation": ""
+		}
+	},
+	"SY": {
+		"name": {
+			"conventional": {
+				"long": "Syrian Arab Republic",
+				"short": "Syria"
+			},
+			"local": {
+				"long": "Al Jumhuriyah al Arabiyah as Suriyah",
+				"short": "Suriyah"
+			},
+			"former": [
+				"United Arab Republic"
+			],
+			"abbreviation": ""
+		}
+	},
+	"SZ": {
+		"name": {
+			"conventional": {
+				"long": "Kingdom of Swaziland",
+				"short": "Swaziland"
+			},
+			"local": {
+				"long": "Umbuso weSwatini",
+				"short": "eSwatini"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"TC": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Turks and Caicos Islands"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": "TCI"
+		}
+	},
+	"TD": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Chad",
+				"short": "Chad"
+			},
+			"local": {
+				"long": [
+					"Republique du Tchad",
+					"Jumhuriyat Tshad"
+				],
+				"short": [
+					"Tchad",
+					"Tshad"
+				]
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"TF": {
+		"name": {
+			"conventional": {
+				"long": "Territory of the French Southern and Antarctic Lands",
+				"short": "French Southern and Antarctic Lands"
+			},
+			"local": {
+				"long": "Territoire des Terres Australes et Antarctiques Francaises",
+				"short": "Terres Australes et Antarctiques Francaises"
+			},
+			"former": [],
+			"abbreviation": "TAAF"
+		}
+	},
+	"TG": {
+		"name": {
+			"conventional": {
+				"long": "Togolese Republic",
+				"short": "Togo"
+			},
+			"local": {
+				"long": "Republique Togolaise",
+				"short": ""
+			},
+			"former": [
+				"French Togoland"
+			],
+			"abbreviation": ""
+		}
+	},
+	"TH": {
+		"name": {
+			"conventional": {
+				"long": "Kingdom of Thailand",
+				"short": "Thailand"
+			},
+			"local": {
+				"long": "Ratcha Anachak Thai",
+				"short": "Prathet Thai"
+			},
+			"former": [
+				"Siam"
+			],
+			"abbreviation": ""
+		}
+	},
+	"TJ": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Tajikistan",
+				"short": "Tajikistan"
+			},
+			"local": {
+				"long": "Jumhurii Tojikiston",
+				"short": "Tojikiston"
+			},
+			"former": [
+				"Tajik Soviet Socialist Republic"
+			],
+			"abbreviation": ""
+		}
+	},
+	"TK": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Tokelau"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"TL": {
+		"name": {
+			"conventional": {
+				"long": "Democratic Republic of Timor-Leste",
+				"short": "Timor-Leste"
+			},
+			"local": {
+				"long": [
+					"Republika Demokratika Timor Lorosa'e (Tetum)",
+					"Republica Democratica de Timor-Leste (Portuguese)"
+				],
+				"short": [
+					"Timor Lorosa'e",
+					"Timor-Leste"
+				]
+			},
+			"former": [
+				"East Timor",
+				"Portuguese Timor"
+			],
+			"abbreviation": ""
+		}
+	},
+	"TM": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Turkmenistan"
+			},
+			"local": {
+				"long": "",
+				"short": "Turkmenistan"
+			},
+			"former": [
+				"Turkmen Soviet Socialist Republic"
+			],
+			"abbreviation": ""
+		}
+	},
+	"TN": {
+		"name": {
+			"conventional": {
+				"long": "Tunisian Republic",
+				"short": "Tunisia"
+			},
+			"local": {
+				"long": "Al Jumhuriyah at Tunisiyah",
+				"short": "Tunis"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"TO": {
+		"name": {
+			"conventional": {
+				"long": "Kingdom of Tonga",
+				"short": "Tonga"
+			},
+			"local": {
+				"long": "Pule'anga Tonga",
+				"short": "Tonga"
+			},
+			"former": [
+				"Friendly Islands"
+			],
+			"abbreviation": ""
+		}
+	},
+	"TR": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Turkey",
+				"short": "Turkey"
+			},
+			"local": {
+				"long": "Türkiye Cumhuriyeti",
+				"short": "Türkiye"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"TT": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Trinidad and Tobago",
+				"short": "Trinidad and Tobago"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"TV": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Tuvalu"
+			},
+			"local": {
+				"long": "",
+				"short": "Tuvalu"
+			},
+			"former": [
+				"Ellice Islands"
+			],
+			"abbreviation": ""
+		}
+	},
+	"TW": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Taiwan"
+			},
+			"local": {
+				"long": "",
+				"short": "Taiwan"
+			},
+			"former": [
+				"Formosa"
+			],
+			"abbreviation": ""
+		}
+	},
+	"TZ": {
+		"name": {
+			"conventional": {
+				"long": "United Republic of Tanzania",
+				"short": "Tanzania"
+			},
+			"local": {
+				"long": "Jamhuri ya Muungano wa Tanzania",
+				"short": "Tanzania"
+			},
+			"former": [
+				"United Republic of Tanganyika and Zanzibar"
+			],
+			"abbreviation": ""
+		}
+	},
+	"UA": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Ukraine"
+			},
+			"local": {
+				"long": "",
+				"short": "Ukrayina"
+			},
+			"former": [
+				"Ukrainian National Republic",
+				"Ukrainian State",
+				"Ukrainian Soviet Socialist Republic"
+			],
+			"abbreviation": ""
+		}
+	},
+	"UG": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Uganda",
+				"short": "Uganda"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"UK": {
+		"name": {
+			"conventional": {
+				"long": "United Kingdom of Great Britain and Northern Ireland",
+				"short": "United Kingdom"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": "UK"
+		}
+	},
+	"UM": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "United States Minor Outlying Islands"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"US": {
+		"name": {
+			"conventional": {
+				"long": "United States of America",
+				"short": "United States"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": "USA"
+		}
+	},
+	"UY": {
+		"name": {
+			"conventional": {
+				"long": "Oriental Republic of Uruguay",
+				"short": "Uruguay"
+			},
+			"local": {
+				"long": "Republica Oriental del Uruguay",
+				"short": "Uruguay"
+			},
+			"former": [
+				"Banda Oriental",
+				"Cisplatine Province"
+			],
+			"abbreviation": ""
+		}
+	},
+	"UZ": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Uzbekistan",
+				"short": "Uzbekistan"
+			},
+			"local": {
+				"long": "O'zbekiston Respublikasi",
+				"short": "O'zbekiston"
+			},
+			"former": [
+				"Uzbek Soviet Socialist Republic"
+			],
+			"abbreviation": ""
+		}
+	},
+	"VA": {
+		"name": {
+			"conventional": {
+				"long": [
+					"Vatican City State",
+					"The Holy See"
+				],
+				"short": [
+					"Vatican City",
+					"Holy See"
+				]
+			},
+			"local": {
+				"long": [
+					"Stato della Citta del Vaticano",
+					"La Santa Sede"
+				],
+				"short": [
+					"Citta del Vaticano",
+					"Santa Sede"
+				]
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"VC": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "Saint Vincent and the Grenadines"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"VE": {
+		"name": {
+			"conventional": {
+				"long": "Bolivarian Republic of Venezuela",
+				"short": "Venezuela"
+			},
+			"local": {
+				"long": "Republica Bolivariana de Venezuela",
+				"short": "Venezuela"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"VG": {
+		"name": {
+			"conventional": {
+				"long": "",
+				"short": "British Virgin Islands"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": "BVI"
+		}
+	},
+	"VI": {
+		"name": {
+			"conventional": {
+				"long": "United States Virgin Islands",
+				"short": "Virgin Islands"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [
+				"Danish West Indies"
+			],
+			"abbreviation": "USVI"
+		}
+	},
+	"VN": {
+		"name": {
+			"conventional": {
+				"long": "Socialist Republic of Vietnam",
+				"short": "Vietnam"
+			},
+			"local": {
+				"long": "Cong Hoa Xa Hoi Chu Nghia Viet Nam",
+				"short": "Viet Nam"
+			},
+			"former": [],
+			"abbreviation": "SRV"
+		}
+	},
+	"VU": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Vanuatu",
+				"short": "Vanuatu"
+			},
+			"local": {
+				"long": "Ripablik blong Vanuatu",
+				"short": "Vanuatu"
+			},
+			"former": [
+				"New Hebrides"
+			],
+			"abbreviation": ""
+		}
+	},
+	"WF": {
+		"name": {
+			"conventional": {
+				"long": "Territory of the Wallis and Futuna Islands",
+				"short": "Wallis and Futuna"
+			},
+			"local": {
+				"long": "Territoire des Iles Wallis et Futuna",
+				"short": "Wallis et Futuna"
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"WS": {
+		"name": {
+			"conventional": {
+				"long": "Independent State of Samoa",
+				"short": "Samoa"
+			},
+			"local": {
+				"long": "Malo Sa'oloto Tuto'atasi o Samoa",
+				"short": "Samoa"
+			},
+			"former": [
+				"Western Samoa"
+			],
+			"abbreviation": ""
+		}
+	},
+	"YE": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Yemen",
+				"short": "Yemen"
+			},
+			"local": {
+				"long": "Al Jumhuriyah al Yamaniyah",
+				"short": "Al Yaman"
+			},
+			"former": [
+				"Yemen Arab Republic",
+				"People's Democratic Republic of Yemen"
+			],
+			"abbreviation": ""
+		}
+	},
+	"YT": {
+		"name": {
+			"conventional": {
+				"long": "Department of Mayotte",
+				"short": "Mayotte"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [],
+			"abbreviation": ""
+		}
+	},
+	"ZA": {
+		"name": {
+			"conventional": {
+				"long": "Republic of South Africa",
+				"short": "South Africa"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [
+				"Union of South Africa"
+			],
+			"abbreviation": "RSA"
+		}
+	},
+	"ZM": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Zambia",
+				"short": "Zambia"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [
+				"Northern Rhodesia"
+			],
+			"abbreviation": ""
+		}
+	},
+	"ZW": {
+		"name": {
+			"conventional": {
+				"long": "Republic of Zimbabwe",
+				"short": "Zimbabwe"
+			},
+			"local": {
+				"long": "",
+				"short": ""
+			},
+			"former": [
+				"Southern Rhodesia",
+				"Rhodesia"
+			],
+			"abbreviation": ""
+		}
+	}
+}
