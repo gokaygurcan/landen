@@ -10,6 +10,7 @@ var Landen = module.exports = function(arg) {
   this._data = {};
   this._exists = this.exists( arg );
   this._name = {};
+  this._code = {};
 
 };
 
@@ -71,6 +72,39 @@ Landen.prototype = {
     }
 
     return this._name;
+  },
+
+  code : function(t) { // type
+    
+    if ( this.exists(this._arg) ) {
+
+      this._code = this._data.code;
+
+      if ( t === undefined ) {
+        this._code = this._data.code;
+      }
+      else if ( t === 'alpha2' || t === 'a2' ) { // ISO 3166-1 alpha-2
+        this._code = this._data.code.alpha2;
+      }
+      else if ( t === 'alpha3' || t === 'a3' ) { // ISO 3166-1 alpha-3
+        this._code = this._data.code.alpha3;
+      }
+      else if ( t === 'numeric' || t === 'n' ) { // ISO 3166-1 numeric
+        this._code = parseInt( this._data.code.numeric );
+      }
+      else if ( t === 'fips' || t === 'f' ) { // Federal Information Processing Standards
+        this._code = this._data.code.fips;
+      }
+      else if ( t === 'ioc' || t === 'i' ) { // International Olympic Committee
+        this._code = this._data.code.ioc;
+      }
+      else {
+        this._code = null;
+      }
+    }
+
+    return this._code;
+
   }
 
 };

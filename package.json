@@ -1,6 +1,6 @@
 {
   "name": "landen",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Country data which come from The World Factbook, United Nations, Wikipedia, etc.",
   "main": "landen.js",
   "scripts": {},
